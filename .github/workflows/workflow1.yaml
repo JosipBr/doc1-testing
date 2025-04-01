@@ -20,9 +20,6 @@ jobs:
       # Check out your repository
       - uses: actions/checkout@v4
 
-      # This step is intentionally made to fail
-      - name: To Show Error
-        run: echo "Should fail at this point ..." ; exit 1
 
       # This step won't run if the previous one fails
       - name: Run a one-line script
