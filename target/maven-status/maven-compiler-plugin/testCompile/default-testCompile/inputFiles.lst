@@ -1,0 +1,4 @@
+/workspaces/devops-demo/src/test/java/via/doc1/devopsdemo/DevopsDemoApplicationTests.java
+/workspaces/devops-demo/src/test/java/via/doc1/devopsdemo/model/TaskTest.java
+/workspaces/devops-demo/src/test/java/via/doc1/devopsdemo/controller/TeamControllerTest.java
+/workspaces/devops-demo/src/test/java/via/doc1/devopsdemo/model/MemberTest.java

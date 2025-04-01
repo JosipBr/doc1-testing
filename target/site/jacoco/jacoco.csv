@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+devops-demo,via.doc1.devopsdemo.service,TeamService,60,72,12,0,15,13,9,2,3,2
+devops-demo,via.doc1.devopsdemo,DevopsDemoApplication,7,3,0,0,3,1,2,1,2,1
+devops-demo,via.doc1.devopsdemo.controller,TeamController,0,12,0,0,0,4,0,2,0,2
+devops-demo,via.doc1.devopsdemo.model,Task,0,76,0,6,0,22,0,14,0,11
+devops-demo,via.doc1.devopsdemo.model,TeamMember,0,68,0,0,0,19,0,10,0,10

@@ -1,0 +1,5 @@
+via/doc1/devopsdemo/DevopsDemoApplication.class
+via/doc1/devopsdemo/service/TeamService.class
+via/doc1/devopsdemo/controller/TeamController.class
+via/doc1/devopsdemo/model/TeamMember.class
+via/doc1/devopsdemo/model/Task.class
