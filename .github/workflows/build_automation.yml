@@ -1,3 +1,13 @@
+name: BUILD_AUTOMATION
+
+on:
+  # Manually trigger workflow runs
+  workflow_dispatch:
+
+  # Trigger the workflow on push to the main branch
+  push:
+    branches: [main]
+
 # Build job
 build:
   # Depends on tests job
